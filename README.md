@@ -1,5 +1,8 @@
-# Software engineering anthology
-A personal list of useful software engineering resources
+# Awesome lost & found
+
+A personal list of useful software engineering resources that may have been lost in my browser's history.
+
+---
 
 ## Architecture
 
