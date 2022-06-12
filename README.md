@@ -1,8 +1,6 @@
 # Awesome lost & found
 
-A personal list of useful software engineering resources that may have been lost in my browser's history.
-
----
+A personal list of useful software engineering resources that may have been lost in my browser's history otherwise.
 
 ## Architecture
 
@@ -23,15 +21,21 @@ A personal list of useful software engineering resources that may have been lost
 
 - [Best Practices for Unit Testing in Kotlin](https://phauer.com/2018/best-practices-unit-testing-kotlin/)
 
+## APIs
+
+- [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+
 ## Kafka
 
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [Turning the database inside-out with Apache Samza](https://martin.kleppmann.com/2015/03/04/turning-the-database-inside-out.html)
-- [Squeezing the firehose: getting the most from Kafka compression](https://blog.cloudflare.com/squeezing-the-firehose/)
+- [Squeezing the firehose: getting the most from Kafka compression](https://blog.cloudflare.com/squeezing-the-firehose/) - overview
+and comparison of the available message compression methods
 - [Optimizing Kafka producers](https://strimzi.io/blog/2020/10/15/producer-tuning/)
 
 ## Databases
-- [How a Distributed SQL Database Boosts Secondary Index Queries with Index Only Scan](https://blog.yugabyte.com/how-a-distributed-sql-database-boosts-secondary-index-queries-with-index-only-scan/)
+- [How a Distributed SQL Database Boosts Secondary Index Queries with Index Only Scan](https://blog.yugabyte.com/how-a-distributed-sql-database-boosts-secondary-index-queries-with-index-only-scan/) - reading 
+data directly from the index (PostgreSQL)
 - [The Skip Locked feature in Postgres 9.5](https://www.pgcasts.com/episodes/the-skip-locked-feature-in-postgres-9-5) - turning 
 PostgreSQL into a simple job queue
 - [The What, Why, and When of Single-Table Design with DynamoDB](https://www.alexdebrie.com/posts/dynamodb-single-table/)
@@ -59,19 +63,25 @@ code formatting) from `git blame` output
 and pragmatic alternative to SOLID (Composable, Unix philosophy, Predictable, Idiomatic, Domain-based)
 - [Kent Beck's four rules of simple design](https://martinfowler.com/bliki/BeckDesignRules.html) - passes the tests,
 reveals intention, no duplication, fewest elements
-- [Safe to fail vs fail safe](https://devskiller.com/techblog/Safe-to-fail-vs-fail-safe/)
-- [Exploratory refactoring](https://victorrentea.ro/blog/exploratory-refactoring/)
-
+- [Safe to fail vs fail safe](https://devskiller.com/techblog/Safe-to-fail-vs-fail-safe/) - unless building a spacecraft,
+recovering from failures quickly may be more important than avoiding all possible issues in the first place
+- [Exploratory refactoring](https://victorrentea.ro/blog/exploratory-refactoring/) - learning the codebase through
+the refactoring
+- [The Best Code Review](https://victorrentea.ro/blog/the-best-code-review/) - tips on how to turn code review into
+a pleasant, and productive experience
 
 ## Soft skills & culture
 
 - [The ownership trio](https://alexewerlof.medium.com/the-ownership-trio-482a4e5f666d) - true ownership requires all 3: 
 mandate, knowledge, and responsibility
 
+## Technical writing
+
+- [The documentation system](https://documentation.divio.com/) - tutorials, how-to guides, explanations, and references
+(all serve a different purpose)
 
 ## Miscellaneous
 
-- [The documentation system](https://documentation.divio.com/) - tutorials, how-to guides, explanations, and references
 - [IDEA - A series of nonverbal algorithm assembly instructions](https://idea-instructions.com/) (IKEA style)
 - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 - [The Difference Between a URL, URI, and URN](https://danielmiessler.com/study/difference-between-uri-url/)
