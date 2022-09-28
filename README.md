@@ -16,6 +16,12 @@ A personal list of useful software engineering resources that may have been lost
 - [Map.merge() - One method to rule them all](https://nurkiewicz.com/2019/03/mapmerge-one-method-to-rule-them-all.html)
 - [What is the point of extending a sealed class with a non-sealed class?](https://stackoverflow.com/questions/63860110/what-is-the-point-of-extending-a-sealed-class-with-a-non-sealed-class/63887136#63887136)
 - [How the JIT compiler boosts Java performance in OpenJDK](https://developers.redhat.com/articles/2021/06/23/how-jit-compiler-boosts-java-performance-openjdk)
+- [Automatic-Module-Name: Calling all Java Library Maintainers](http://branchandbound.net/blog/java/2017/12/automatic-module-name/)
+- [Testing in a modular world](https://info.michael-simons.eu/2021/10/19/testing-in-a-modular-world/) - an overview of 
+available testing strategies when using Java Platform Module System (JPMS)
+- [Java Best Practices](http://java.jonathangiles.net/)
+- [There is no single dependency graph](https://melix.github.io/blog/2022/07/there-is-no-single-dependency-graph.html) -
+caveats and misconceptions around resolving application/library dependencies
 
 ## Kotlin
 
@@ -24,6 +30,8 @@ A personal list of useful software engineering resources that may have been lost
 ## APIs
 
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+- [Your Circuit Breaker is Misconfigured](https://shopify.engineering/circuit-breaker-misconfigured) - overview of various
+Circuit Breaker parameters and their impact on reliability
 
 ## Kafka
 
@@ -74,6 +82,7 @@ a pleasant, and productive experience
 
 - [The ownership trio](https://alexewerlof.medium.com/the-ownership-trio-482a4e5f666d) - true ownership requires all 3: 
 mandate, knowledge, and responsibility
+- 📺 [Agility ≠ Speed](https://youtu.be/VnQZ24eeaXM) - what does it really mean to be agile?
 
 ## Technical writing
 
@@ -86,3 +95,4 @@ mandate, knowledge, and responsibility
 - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 - [The Difference Between a URL, URI, and URN](https://danielmiessler.com/study/difference-between-uri-url/)
 - [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/)
+- [What you need to know to choose an open source license](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
