@@ -67,7 +67,7 @@ code formatting) from `git blame` output
 
 ## Software craftsmanship
 
-- [CUPID for joyful coding](https://github.com/kgoralski/microservice-production-readiness-checklist) - an interesting 
+- [CUPID for joyful coding](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/) - an interesting 
 and pragmatic alternative to SOLID (Composable, Unix philosophy, Predictable, Idiomatic, Domain-based)
 - [Kent Beck's four rules of simple design](https://martinfowler.com/bliki/BeckDesignRules.html) - passes the tests,
 reveals intention, no duplication, fewest elements
