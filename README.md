@@ -49,6 +49,8 @@ and comparison of the available message compression methods
 - _Exploring Kafka XYZ's Internals_ series
   - [Exploring Kafka Producer’s Internals](https://blog.developer.adobe.com/exploring-kafka-producers-internals-37411b647d0f)
   - [Exploring Kafka Consumer’s Internals](https://medium.com/adobetech/exploring-kafka-consumers-internals-b0b9becaa106)
+- 📺 [Kafka: a map of traps for the enlightened dev and op](https://youtu.be/paVdXL5vDzg) - probably the best Kafka deep dive 
+I've ever seen (from basic concepts, through operations, and complex "what if X fails?" considerations)
 
 ## Databases
 - [How a Distributed SQL Database Boosts Secondary Index Queries with Index Only Scan](https://blog.yugabyte.com/how-a-distributed-sql-database-boosts-secondary-index-queries-with-index-only-scan/) - reading 
