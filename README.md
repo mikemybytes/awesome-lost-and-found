@@ -22,6 +22,12 @@ available testing strategies when using Java Platform Module System (JPMS)
 - [Java Best Practices](http://java.jonathangiles.net/)
 - [There is no single dependency graph](https://melix.github.io/blog/2022/07/there-is-no-single-dependency-graph.html) -
 caveats and misconceptions around resolving application/library dependencies
+- [Local Variable Type Inference Style Guidelines](https://openjdk.org/projects/amber/guides/lvti-style-guide) - when to
+use (and when not) the `var` keyword
+- 📺 [Secrets of Performance Tuning Java on Kubernetes](https://vimeo.com/748031919) - despite the title, it focuses on
+the most essential parts like selecting the right GC, defining max heap size, and avoiding CPU throttling
+- [GC Causes](https://netflix.github.io/atlas-docs/spectator/lang/java/ext/jvm-gc-causes/) - an useful list of various 
+Java garbage collection causes
 
 ## Kotlin
 
@@ -40,6 +46,11 @@ Circuit Breaker parameters and their impact on reliability
 - [Squeezing the firehose: getting the most from Kafka compression](https://blog.cloudflare.com/squeezing-the-firehose/) - overview
 and comparison of the available message compression methods
 - [Optimizing Kafka producers](https://strimzi.io/blog/2020/10/15/producer-tuning/)
+- _Exploring Kafka XYZ's Internals_ series
+  - [Exploring Kafka Producer’s Internals](https://blog.developer.adobe.com/exploring-kafka-producers-internals-37411b647d0f)
+  - [Exploring Kafka Consumer’s Internals](https://medium.com/adobetech/exploring-kafka-consumers-internals-b0b9becaa106)
+- 📺 [Kafka: a map of traps for the enlightened dev and op](https://youtu.be/paVdXL5vDzg) - probably the best Kafka deep dive 
+I've ever seen (from basic concepts, through operations, and complex "what if X fails?" considerations)
 
 ## Databases
 - [How a Distributed SQL Database Boosts Secondary Index Queries with Index Only Scan](https://blog.yugabyte.com/how-a-distributed-sql-database-boosts-secondary-index-queries-with-index-only-scan/) - reading 
@@ -58,6 +69,8 @@ PostgreSQL into a simple job queue
   - [How does a Prometheus Gauge work?](https://www.robustperception.io/how-does-a-prometheus-gauge-work/)
   - [How does a Prometheus Summary work?](https://www.robustperception.io/how-does-a-prometheus-summary-work)
   - [How does a Prometheus Histogram work?](https://www.robustperception.io/how-does-a-prometheus-histogram-work)
+- [Awesome Prometheus alerts](https://awesome-prometheus-alerts.grep.to/) - collection of alerting rules for various 
+occasions
 
 ## Git
 
