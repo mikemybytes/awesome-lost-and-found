@@ -32,6 +32,8 @@ Java garbage collection causes
 ## Kotlin
 
 - [Best Practices for Unit Testing in Kotlin](https://phauer.com/2018/best-practices-unit-testing-kotlin/)
+- [MockK Guidebook](https://notwoods.github.io/mockk-guidebook/) - a good addition to the official [MockK](https://mockk.io/) 
+documentation, especially when it comes to migrating from Mockito
 
 ## APIs
 
@@ -58,6 +60,11 @@ data directly from the index (PostgreSQL)
 - [The Skip Locked feature in Postgres 9.5](https://www.pgcasts.com/episodes/the-skip-locked-feature-in-postgres-9-5) - turning 
 PostgreSQL into a simple job queue
 - [The What, Why, and When of Single-Table Design with DynamoDB](https://www.alexdebrie.com/posts/dynamodb-single-table/)
+
+## Distributed systems
+
+- [Consistency models](https://jepsen.io/consistency) - a clickable map of relationships between different consistency models
+- [Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)
 
 ## Observability
 
@@ -90,6 +97,8 @@ recovering from failures quickly may be more important than avoiding all possibl
 the refactoring
 - [The Best Code Review](https://victorrentea.ro/blog/the-best-code-review/) - tips on how to turn code review into
 a pleasant, and productive experience
+- [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) - a handful 
+of general tips from an experienced software engineer
 
 ## Soft skills & culture
 
