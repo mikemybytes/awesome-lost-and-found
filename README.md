@@ -8,6 +8,8 @@ A personal list of useful software engineering resources that may have been lost
 - [A Hitchhiker’s Guide to Caching Patterns](https://hazelcast.com/blog/a-hitchhikers-guide-to-caching-patterns/)
 - [Microservices Production Readiness Checklist](https://github.com/kgoralski/microservice-production-readiness-checklist)
 - [Simple systems have less downtime](https://www.gkogan.co/blog/simple-systems/)
+- [Event-Driven Architectures vs. Event-Based Compute in Serverless Applications](https://www.alexdebrie.com/posts/event-driven-vs-event-based/) - using 
+serverless functions (like AWS Lambda) is not enough to call the architecture "event-driven" 
 
 ## Java
 
@@ -28,12 +30,15 @@ use (and when not) the `var` keyword
 the most essential parts like selecting the right GC, defining max heap size, and avoiding CPU throttling
 - [GC Causes](https://netflix.github.io/atlas-docs/spectator/lang/java/ext/jvm-gc-causes/) - an useful list of various 
 Java garbage collection causes
+- [The best way to use Testcontainers with Spring Boot](https://maciejwalkowiak.com/blog/testcontainers-spring-boot-setup/) - the "best"
+is always quite subjective, but this one is a really great starting point
 
 ## Kotlin
 
 - [Best Practices for Unit Testing in Kotlin](https://phauer.com/2018/best-practices-unit-testing-kotlin/)
 - [MockK Guidebook](https://notwoods.github.io/mockk-guidebook/) - a good addition to the official [MockK](https://mockk.io/) 
 documentation, especially when it comes to migrating from Mockito
+- [Kotlin: An Illustrated Guide](https://typealias.com/start/)
 
 ## APIs
 
