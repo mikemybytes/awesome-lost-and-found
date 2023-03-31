@@ -84,6 +84,11 @@ PostgreSQL into a simple job queue
 - [Awesome Prometheus alerts](https://awesome-prometheus-alerts.grep.to/) - collection of alerting rules for various 
 occasions
 
+## Kubernetes
+
+- [In Kubernetes, what should I use as CPU requests and limits?](https://twitter.com/danielepolencic/status/1632717409051181056)
+- [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+
 ## Git
 
 - [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
@@ -123,3 +128,4 @@ mandate, knowledge, and responsibility
 - [The Difference Between a URL, URI, and URN](https://danielmiessler.com/study/difference-between-uri-url/)
 - [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/)
 - [What you need to know to choose an open source license](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
+- [Wooledge's Bash Guide](https://mywiki.wooledge.org/BashGuide)
