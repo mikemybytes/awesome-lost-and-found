@@ -65,6 +65,9 @@ data directly from the index (PostgreSQL)
 - [The Skip Locked feature in Postgres 9.5](https://www.pgcasts.com/episodes/the-skip-locked-feature-in-postgres-9-5) - turning 
 PostgreSQL into a simple job queue
 - [The What, Why, and When of Single-Table Design with DynamoDB](https://www.alexdebrie.com/posts/dynamodb-single-table/)
+- [The Inner Workings of Distributed Databases](https://questdb.io/blog/inner-workings-distributed-databases/)
+- [Loose indexscan in PostgreSQL](https://wiki.postgresql.org/wiki/Loose_indexscan) - finding distinct values of the 
+leading columns of a B-tree index in an efficient way
 
 ## Distributed systems
 
@@ -115,6 +118,7 @@ of general tips from an experienced software engineer
 - [The ownership trio](https://alexewerlof.medium.com/the-ownership-trio-482a4e5f666d) - true ownership requires all 3: 
 mandate, knowledge, and responsibility
 - 📺 [Agility ≠ Speed](https://youtu.be/VnQZ24eeaXM) - what does it really mean to be agile?
+- [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 
 ## Technical writing
 
