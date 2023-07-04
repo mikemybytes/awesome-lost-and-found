@@ -68,6 +68,9 @@ PostgreSQL into a simple job queue
 - [The Inner Workings of Distributed Databases](https://questdb.io/blog/inner-workings-distributed-databases/)
 - [Loose indexscan in PostgreSQL](https://wiki.postgresql.org/wiki/Loose_indexscan) - finding distinct values of the 
 leading columns of a B-tree index in an efficient way
+- [“Multi-AZ” in Amazon RDS and how it may differ from High Availability](https://dev.to/aws-heroes/multi-az-in-amazon-rds-and-how-it-differs-from-high-availability-gn9)
+- [Challenges and Solutions When Scaling PostgreSQL](https://onesignal.com/blog/lessons-learned-from-5-years-of-scaling-postgresql/) - including 
+explanation on how to deal with bloat (`VACUUM`)
 
 ## Distributed systems
 
@@ -98,6 +101,10 @@ occasions
 - [A better git blame with --ignore-rev](https://michaelheap.com/git-ignore-rev/) - ignoring certain revisions (e.g. 
 code formatting) from `git blame` output
 
+## Testing
+
+- [How simple is 'too simple to break'?](https://junit.org/junit4/faq.html#best_3)
+
 ## Software craftsmanship
 
 - [CUPID for joyful coding](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/) - an interesting 
@@ -119,6 +126,7 @@ of general tips from an experienced software engineer
 mandate, knowledge, and responsibility
 - 📺 [Agility ≠ Speed](https://youtu.be/VnQZ24eeaXM) - what does it really mean to be agile?
 - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+- [Work on what matters](https://staffeng.com/guides/work-on-what-matters/) - not every area is worth the same attention!
 
 ## Technical writing
 
