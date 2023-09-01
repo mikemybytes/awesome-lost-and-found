@@ -32,6 +32,9 @@ the most essential parts like selecting the right GC, defining max heap size, an
 Java garbage collection causes
 - [The best way to use Testcontainers with Spring Boot](https://maciejwalkowiak.com/blog/testcontainers-spring-boot-setup/) - the "best"
 is always quite subjective, but this one is a really great starting point
+- [THE BEST WAY TO USE TESTCONTAINERS FROM YOUR SPRING BOOT TESTS!](https://info.michael-simons.eu/2023/07/27/the-best-way-to-use-testcontainers-from-your-spring-boot-tests/) - it's
+not a duplicate: this one shows how to use Testcontainers with `@ServiceConnection` in Spring Boot 3.x
+- [How to Effectively Test Time-Dependent Code: Unit and Spring-Based Strategies](https://jonasg.io/posts/how-to-effectively-test-time-dependent-code/)
 
 ## Kotlin
 
@@ -39,6 +42,8 @@ is always quite subjective, but this one is a really great starting point
 - [MockK Guidebook](https://notwoods.github.io/mockk-guidebook/) - a good addition to the official [MockK](https://mockk.io/) 
 documentation, especially when it comes to migrating from Mockito
 - [Kotlin: An Illustrated Guide](https://typealias.com/start/)
+- [Kotlin and Exceptions](https://elizarov.medium.com/kotlin-and-exceptions-8062f589d07) - dos and don'ts of using
+exceptions in Kotlin
 
 ## APIs
 
@@ -127,6 +132,8 @@ mandate, knowledge, and responsibility
 - 📺 [Agility ≠ Speed](https://youtu.be/VnQZ24eeaXM) - what does it really mean to be agile?
 - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 - [Work on what matters](https://staffeng.com/guides/work-on-what-matters/) - not every area is worth the same attention!
+- [The Economics of Engineering Blogs](https://www.thediff.co/archive/the-economics-of-engineering-blogs/) - there are 
+some really good economic reasons to run a company engineering blog
 
 ## Technical writing
 
