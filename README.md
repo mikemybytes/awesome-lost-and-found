@@ -2,6 +2,27 @@
 
 A personal list of useful software engineering resources that may have been lost in my browser's history otherwise.
 
+> [!NOTE]
+> All the updates are announced as [releases](https://github.com/mikemybytes/awesome-lost-and-found/releases).
+> _Watch_ this repository to receive notifications.
+> 
+<details>
+<summary><b>Why? What is this?</b></summary>
+
+I share interesting software engineering resources on [my Twitter/X](https://twitter.com/mikemybytes) as they come. 
+Yet, _interesting_ does not always mean _worth revisiting_. When somebody asks: _Hey Mike, do you have any useful 
+resources about Kafka?_, we both would benefit from a single list. Besides, I sometimes forget too...
+
+**This list is like a set of selectively filtered bookmarks**. My goal is not to add things here regularly but to keep 
+them useful and accurate. New [releases](https://github.com/mikemybytes/awesome-lost-and-found/releases) act a bit like 
+a newsletter for those who are interested. Also, I don't link [my own articles]([releases](https://mikemybytes.com)) 
+here.
+
+Leave a :star: if you found it awesome too!
+</details>
+
+---
+
 ## Architecture
 
 - [The Twelve-Factor App](https://12factor.net/)
@@ -81,6 +102,8 @@ explanation on how to deal with bloat (`VACUUM`)
 
 - [Consistency models](https://jepsen.io/consistency) - a clickable map of relationships between different consistency models
 - [Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)
+- [10 Tips for Building Resilient Payment Systems](https://shopify.engineering/building-resilient-payment-systems) - not
+only for payment systems!
 
 ## Observability
 
