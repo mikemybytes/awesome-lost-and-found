@@ -56,6 +56,10 @@ is always quite subjective, but this one is a really great starting point
 - [THE BEST WAY TO USE TESTCONTAINERS FROM YOUR SPRING BOOT TESTS!](https://info.michael-simons.eu/2023/07/27/the-best-way-to-use-testcontainers-from-your-spring-boot-tests/) - it's
 not a duplicate: this one shows how to use Testcontainers with `@ServiceConnection` in Spring Boot 3.x
 - [How to Effectively Test Time-Dependent Code: Unit and Spring-Based Strategies](https://jonasg.io/posts/how-to-effectively-test-time-dependent-code/)
+- [Java 21 is no LTS Version](https://nipafx.dev/inside-java-newscast-52/) - debunking myths about "LTS" releases 
+- [When Quarkus meets Virtual Threads](https://quarkus.io/blog/virtual-thread-1/) - great explanation of what Virtual 
+ Threads bring to the table, and how they "compare" to the reactive model. Not only for Quarkus users!
+- [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
 
 ## Kotlin
 
@@ -65,6 +69,7 @@ documentation, especially when it comes to migrating from Mockito
 - [Kotlin: An Illustrated Guide](https://typealias.com/start/)
 - [Kotlin and Exceptions](https://elizarov.medium.com/kotlin-and-exceptions-8062f589d07) - dos and don'ts of using
 exceptions in Kotlin
+- [Coding conventions](https://kotlinlang.org/docs/coding-conventions.html) - a set of official language guidelines
 
 ## APIs
 
