@@ -60,6 +60,7 @@ not a duplicate: this one shows how to use Testcontainers with `@ServiceConnecti
 - [When Quarkus meets Virtual Threads](https://quarkus.io/blog/virtual-thread-1/) - great explanation of what Virtual 
  Threads bring to the table, and how they "compare" to the reactive model. Not only for Quarkus users!
 - [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
+- [JFR Event collection](https://sap.github.io/SapMachine/jfrevents/21.html)
 
 ## Kotlin
 
@@ -102,6 +103,8 @@ leading columns of a B-tree index in an efficient way
 - [“Multi-AZ” in Amazon RDS and how it may differ from High Availability](https://dev.to/aws-heroes/multi-az-in-amazon-rds-and-how-it-differs-from-high-availability-gn9)
 - [Challenges and Solutions When Scaling PostgreSQL](https://onesignal.com/blog/lessons-learned-from-5-years-of-scaling-postgresql/) - including 
 explanation on how to deal with bloat (`VACUUM`)
+- [PostgreSQL and UUID as primary key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/) - short summary of 
+the advantages of using UUID v7 instead of v4 (random)
 
 ## Distributed systems
 
@@ -176,3 +179,4 @@ some really good economic reasons to run a company engineering blog
 - [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/)
 - [What you need to know to choose an open source license](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
 - [Wooledge's Bash Guide](https://mywiki.wooledge.org/BashGuide)
+- [How Complex Systems Fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf)
