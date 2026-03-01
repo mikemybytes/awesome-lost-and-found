@@ -61,6 +61,8 @@ not a duplicate: this one shows how to use Testcontainers with `@ServiceConnecti
  Threads bring to the table, and how they "compare" to the reactive model. Not only for Quarkus users!
 - [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
 - [JFR Event collection](https://sap.github.io/SapMachine/jfrevents/21.html)
+- [When Memory Growth Isn't a Leak: Debugging Native Memory in a JVM Service](https://cspinetta.substack.com/p/when-memory-growth-isnt-a-leak-debugging)
+- [The Long Journey - How Bytecode Gets Interpreted by the Machine](https://softwaremill.com/the-long-journey-how-byte-code-gets-interpreted-by-the-machine/)
 
 ## Kotlin
 
@@ -155,6 +157,7 @@ the refactoring
 a pleasant, and productive experience
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) - a handful 
 of general tips from an experienced software engineer
+- [You can’t control what you can’t see: cost visibility in growing organizations](https://justanotherdevblog.com/2026/01/14/you-cant-control-what-you-cant-see-cost-visibility-in-growing-organizations/)
 
 ## Soft skills & culture
 
